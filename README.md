@@ -12,7 +12,7 @@
 - **ML/DL:** Scikit-learn, TensorFlow, Keras, PyTorch  
 - **Data Science:** Pandas, NumPy, Matplotlib, Power BI  
 - **Special Interests:** Natural Language Processing, Computer Vision, Generative AI  
-- **Other Tools:** Git, Streamlit, Jupyter Notebook, FastAPI  
+- **Other Tools:** Git, Streamlit, Jupyter Notebook 
 
 ---
 
@@ -45,8 +45,8 @@ Implemented OCR pipeline to extract text from images using Python.
 
 ## 🌐 Connect with Me
 - 📧 Email: sundarraj.off29@gmail.com
-- 💼 LinkedIn: [[your-linkedin-profile-here]  ](https://www.linkedin.com/in/sundarrajb/)
-- 📝 Portfolio: [[your-portfolio-link-if-any] ](https://github.com/Sundar9787) 
+- 💼 LinkedIn: [https://www.linkedin.com/in/sundarrajb/]
+- 📝 Portfolio: [https://github.com/Sundar9787]
 
 ---
 ⭐️ *"Passionate about transforming ideas into AI-powered solutions."*
